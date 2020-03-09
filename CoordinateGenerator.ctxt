@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CoordinateGenerator
+comment0.text=\n\ This\ class\ is\ responsible\ for\ generating\ a\ random\ number\ which\ can\ be\ used\ \n\ for\ deciding\ the\ X\ and\ Y\ coordinates\ for\ each\ ship\ \n\ and\ even\ for\ deciding\ the\ random\ hull\ strength\ of\ each\ ship\ within\ the\ game.\n\ @author\ (Smarth\ Bajaj)\n\ @Date\ (20/10/2018)\n
+comment1.params=
+comment1.target=CoordinateGenerator()
+comment2.params=minimumValue\ maximumValue
+comment2.target=CoordinateGenerator(int,\ int)
+comment3.params=
+comment3.target=int\ getMinimumValue()
+comment4.params=
+comment4.target=int\ getMaximumValue()
+comment5.params=minimumValue
+comment5.target=void\ setMinimumValue(int)
+comment6.params=maximumValue
+comment6.target=void\ setMaximumValue(int)
+comment7.params=min\ max
+comment7.target=int\ random_no(int,\ int)
+numComments=8

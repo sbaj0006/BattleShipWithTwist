@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Validation
+comment0.text=\n\ The\ Validation\ class\ will\ allow\ the\ system\ to\ validate\ all\ user\ \n\ inputs\ accepted\ via\ the\ keyboard\n\ @author\ (Smarth\ Bajaj)\n\ @Date\ (20/10/2018)\n
+comment1.params=
+comment1.target=Validation()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Validation\n
+comment2.params=s1
+comment2.target=java.lang.Boolean\ StringisBlank(java.lang.String)
+comment3.params=s1\ min\ max
+comment3.target=java.lang.Boolean\ StringLengthWithInRange(java.lang.String,\ int,\ int)
+comment4.params=poss\ pos
+comment4.target=java.lang.Boolean\ PositionwithinRange(java.lang.String,\ int)
+numComments=5

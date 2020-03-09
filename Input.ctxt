@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Input
+comment0.text=\n\ The\ Input\ class\ will\ specify\ the\ attributes\ and\ behaviours\ for\ reading\ input\ \n\ from\ the\ user\ via\ the\ keyboard.\n\ @author\ (Smarth\ Bajaj)\n\ @Date\ (20/10/2018)\n
+comment1.params=
+comment1.target=Input()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Input\n
+comment2.params=s1
+comment2.target=java.lang.String\ acceptInput(java.lang.String)
+numComments=3
